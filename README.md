@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👩🏻‍💻 Du Ribeiro
 
-<!--
-**duribeirro/duribeirro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Ciência Da Computação`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Maria Eduarda, tenho 19 anos e sou de São Paulo, capital.  
+Atualmente, curso Ciência da Computação na FAM, onde venho desenvolvendo conhecimentos em programação, lógica e tecnologia em geral.  
+Aqui no GitHub compartilho meus estudos, projetos e minha evolução na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
