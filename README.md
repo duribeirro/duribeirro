@@ -3,7 +3,7 @@
 **`Estudante de Ciência Da Computação`**
 
 Olá! Me chamo Maria Eduarda, tenho 19 anos e sou de São Paulo, capital.  
-Atualmente, curso Ciência da Computação na FAM, onde venho desenvolvendo conhecimentos em programação, lógica e tecnologia em geral.  Aqui no GitHub compartilho meus estudos, projetos e minha evolução na área de tecnologia.
+Atualmente, estudando programação venho desenvolvendo conhecimentos em lógica e tecnologia em geral.  Aqui no GitHub compartilho meus estudos, projetos e minha evolução na área de tecnologia.
 
 
 ### 🤖 Linguagens e Tecnologias
